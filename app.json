@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "My Aesthetics",
+    "slug": "my-aesthetics",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/LogoIcon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Icons/splashscreen_image.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/LogoIcon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.fernando_matos.MyAesthetics"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "de2a520f-8bc6-4513-86f0-17aa8cf418d9"
+      }
+    },
+    "owner": "fernando_matos",
+    "updates": {
+      "url": "https://u.expo.dev/de2a520f-8bc6-4513-86f0-17aa8cf418d9"
+    }
+  }
+}
