@@ -5,6 +5,10 @@
 MyAesthetic é um aplicativo que tem como objetivo ajudar a conectar os microempreendedores da estética ao seus cliente, 
 onde os mesmos buscam por efetividade e versatilidade em seu dia a dia. 
 
+## 📷 Fotos
+
+
+
 ## 🔨 Ferramentas
 
 - [Node](https://nodejs.org/docs/latest/api/)
@@ -12,7 +16,7 @@ onde os mesmos buscam por efetividade e versatilidade em seu dia a dia.
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Back4app](https://www.back4app.com/)
 
-## Instalação
+## ⚙️ Instalação
 
 ```bash
   #Clone the project
