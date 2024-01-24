@@ -7,7 +7,13 @@ onde os mesmos buscam por efetividade e versatilidade em seu dia a dia.
 
 ## 📷 Fotos
 
-
+<div flex>
+  <img src="./assets/ImgReadMe/Welcome.jpeg" width="230" height="500">
+  <img src="./assets/ImgReadMe/Home.jpeg" width="230" height="500">
+  <img src="./assets/ImgReadMe/Perfil.jpeg" width="230" height="500">
+  <img src="./assets/ImgReadMe/TeladoEmpreendedor.jpeg" width="230" height="500">
+  <img src="./assets/ImgReadMe/DetalhesEmpreendimento.jpeg" width="230" height="500">
+</div>
 
 ## 🔨 Ferramentas
 
@@ -17,6 +23,8 @@ onde os mesmos buscam por efetividade e versatilidade em seu dia a dia.
 - [Back4app](https://www.back4app.com/)
 
 ## ⚙️ Instalação
+
+- Cuidado, pode conter erros no código!
 
 ```bash
   #Clone the project
@@ -38,3 +46,6 @@ onde os mesmos buscam por efetividade e versatilidade em seu dia a dia.
   #Install all depedencies, if use yarn
   $ yarn
 ```
+
+## 📜 Licença
+This project is under the Fernando Matos license.
