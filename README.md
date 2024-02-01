@@ -21,6 +21,7 @@ onde os mesmos buscam por efetividade e versatilidade em seu dia a dia.
 - [React](https://legacy.reactjs.org/docs/getting-started.html)
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Back4app](https://www.back4app.com/)
+- [Mercado Pago API](https://www.mercadopago.com.br/developers/pt)
 
 ## ⚙️ Instalação
 
